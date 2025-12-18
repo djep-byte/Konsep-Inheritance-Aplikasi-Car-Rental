@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Kendaraan
+comment1.params=merk\ model\ tahun
+comment1.target=Kendaraan(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ kembalikan()
+comment3.params=
+comment3.target=java.lang.String\ tampilkanInfo()
+numComments=4
